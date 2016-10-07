@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">NavigationView</string>
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="menu_one">Menu 1</string>
+    <string name="menu_two">Menu 2</string>
+    <string name="menu_three">Menu 3</string>
+    <string name="menu_four">Menu 4</string>
+    <string name="menu_five">Menu 5</string>
+    <string name="sub_menu_header">Submenu</string>
+    <string name="sub_menu_one">Submenu 1</string>
+    <string name="sub_menu_two">Submenu 2</string>
+
+    <string name="toolbar_scrolling_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+
 </resources>
